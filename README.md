@@ -1,5 +1,6 @@
 ### 김윤성입니다 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyoonseong&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyoonseong&show_icons=true&theme=radical)<br>
 <img src="https://img.shields.io/badge/unity-000000?style=flat-square&logo=unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
@@ -7,6 +8,18 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python-3776AB&logoColor=white"/>
+
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="dannyk977@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+   https://www.instagram.com/walaos/
+    <a href="https://www.instagram.com/walaos/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+
+</div><br>
 <!--
 **kimyoonseong/kimyoonseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
